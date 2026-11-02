@@ -1,0 +1,76 @@
+fold,model,RMSE
+0,Mean baseline,71.6574036828807
+0,Linear regression (sklearn),58.517171277315626
+0,"Decision tree, depth 3 (mine)",68.24344405947117
+0,"Gradient boosting (mine, early stopping)",60.97838579053674
+0,"Gradient boosting (sklearn, 100 trees)",63.81184095530798
+1,Mean baseline,73.21664282375325
+1,Linear regression (sklearn),53.767039231023
+1,"Decision tree, depth 3 (mine)",57.580788567741116
+1,"Gradient boosting (mine, early stopping)",55.51301562014419
+1,"Gradient boosting (sklearn, 100 trees)",57.051607090715194
+2,Mean baseline,80.02521321641684
+2,Linear regression (sklearn),54.447961263112276
+2,"Decision tree, depth 3 (mine)",58.3641479569674
+2,"Gradient boosting (mine, early stopping)",54.85394293580884
+2,"Gradient boosting (sklearn, 100 trees)",52.46443306348039
+3,Mean baseline,77.26885756163954
+3,Linear regression (sklearn),53.43161448174351
+3,"Decision tree, depth 3 (mine)",61.52783892238929
+3,"Gradient boosting (mine, early stopping)",58.34017622662207
+3,"Gradient boosting (sklearn, 100 trees)",59.55422130796298
+4,Mean baseline,82.47979567064058
+4,Linear regression (sklearn),52.47209564628024
+4,"Decision tree, depth 3 (mine)",66.56921962081368
+4,"Gradient boosting (mine, early stopping)",61.9332371576673
+4,"Gradient boosting (sklearn, 100 trees)",56.4310697049124
+5,Mean baseline,80.0844108017538
+5,Linear regression (sklearn),56.976227524288035
+5,"Decision tree, depth 3 (mine)",65.58621861250842
+5,"Gradient boosting (mine, early stopping)",58.403743681898035
+5,"Gradient boosting (sklearn, 100 trees)",59.638632123885216
+6,Mean baseline,78.11310683553437
+6,Linear regression (sklearn),57.306159592610264
+6,"Decision tree, depth 3 (mine)",61.10096761578787
+6,"Gradient boosting (mine, early stopping)",58.08862231978189
+6,"Gradient boosting (sklearn, 100 trees)",58.3834558876429
+7,Mean baseline,76.46706704504207
+7,Linear regression (sklearn),54.90187967182109
+7,"Decision tree, depth 3 (mine)",57.87787559277871
+7,"Gradient boosting (mine, early stopping)",56.36094270224588
+7,"Gradient boosting (sklearn, 100 trees)",58.84492991846052
+8,Mean baseline,77.27882565113936
+8,Linear regression (sklearn),50.030341644054396
+8,"Decision tree, depth 3 (mine)",51.369378779440275
+8,"Gradient boosting (mine, early stopping)",49.63757864526124
+8,"Gradient boosting (sklearn, 100 trees)",49.850532385896635
+9,Mean baseline,72.96707752134708
+9,Linear regression (sklearn),54.388358947090005
+9,"Decision tree, depth 3 (mine)",65.88939702264565
+9,"Gradient boosting (mine, early stopping)",61.65720250416254
+9,"Gradient boosting (sklearn, 100 trees)",62.805620569834495
+10,Mean baseline,75.07335139311093
+10,Linear regression (sklearn),53.209103344120145
+10,"Decision tree, depth 3 (mine)",56.26837961172369
+10,"Gradient boosting (mine, early stopping)",53.940166770634484
+10,"Gradient boosting (sklearn, 100 trees)",55.1025748927479
+11,Mean baseline,78.80214659732474
+11,Linear regression (sklearn),60.009343249026365
+11,"Decision tree, depth 3 (mine)",67.5326071798732
+11,"Gradient boosting (mine, early stopping)",63.19154610376838
+11,"Gradient boosting (sklearn, 100 trees)",65.03818577777548
+12,Mean baseline,80.33275249856004
+12,Linear regression (sklearn),53.72791648853412
+12,"Decision tree, depth 3 (mine)",61.031470094356976
+12,"Gradient boosting (mine, early stopping)",56.015498808954774
+12,"Gradient boosting (sklearn, 100 trees)",59.42600268018492
+13,Mean baseline,77.49259706045953
+13,Linear regression (sklearn),57.129081920913116
+13,"Decision tree, depth 3 (mine)",61.24406016135392
+13,"Gradient boosting (mine, early stopping)",58.397275669900715
+13,"Gradient boosting (sklearn, 100 trees)",59.14556286744651
+14,Mean baseline,74.45916517510997
+14,Linear regression (sklearn),49.198191019430695
+14,"Decision tree, depth 3 (mine)",56.828420574785774
+14,"Gradient boosting (mine, early stopping)",54.31232715953497
+14,"Gradient boosting (sklearn, 100 trees)",54.6950876033746
